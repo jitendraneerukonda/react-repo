@@ -1,0 +1,42 @@
+{
+	"profiles":[
+		{
+			"basic":{
+				"image":"emojiuser.svg",
+				"name":"Jitendra N",
+				"role":"student",
+				"phone":"1234567890",
+				"email":"jitendran@gmail.com",
+				"address":"Guntur"
+			},
+			"career":"I want to be a SE ",
+			"educationalqualification":[
+				{
+					"institute":"vasireddy venkatadri institute of technology",
+					"degree":"B.tech",
+					"passedoutyear":"2020",
+					"percentage":"75%"
+				},
+				{
+					"institute":"bhashyam clg",
+					"degree":"Intermediate",
+					"passedoutyear":"2016",
+					"percentage":"90%"
+				},
+				{
+					"institute":"bhashyam school",
+					"degree":"ssc",
+					"passedoutyear":"2014",
+					"percentage":"97%"
+				}
+			],
+			"techskills":"HTML,CSS,Bootstrap,ReactJS,MySQL,Linux,Windows,Ubuntu"
+				
+		}
+	],
+	"Certifications":{
+    	"web React":"Web Development using React Js from Apssdc",
+    	"android":"Android certification from Apssdc"
+
+	}
+}
