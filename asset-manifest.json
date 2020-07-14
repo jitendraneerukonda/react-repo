@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-repo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-repo/static/js/main.412b1192.chunk.js",
+    "main.js.map": "/react-repo/static/js/main.412b1192.chunk.js.map",
+    "runtime-main.js": "/react-repo/static/js/runtime-main.cf3ba26a.js",
+    "runtime-main.js.map": "/react-repo/static/js/runtime-main.cf3ba26a.js.map",
+    "static/js/2.c0aec8e6.chunk.js": "/react-repo/static/js/2.c0aec8e6.chunk.js",
+    "static/js/2.c0aec8e6.chunk.js.map": "/react-repo/static/js/2.c0aec8e6.chunk.js.map",
+    "index.html": "/react-repo/index.html",
+    "precache-manifest.7b8c98a43323cd149b709f56aebd1018.js": "/react-repo/precache-manifest.7b8c98a43323cd149b709f56aebd1018.js",
+    "service-worker.js": "/react-repo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-repo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c0aec8e6.chunk.js.LICENSE.txt": "/react-repo/static/js/2.c0aec8e6.chunk.js.LICENSE.txt",
+    "static/media/emojiuser.svg": "/react-repo/static/media/emojiuser.714b4c88.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf3ba26a.js",
+    "static/js/2.c0aec8e6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.412b1192.chunk.js"
+  ]
+}
